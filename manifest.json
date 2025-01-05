@@ -1,6 +1,6 @@
 {
-    "name": "https://fatboyy.github.io/pwa-deneme",
-    "short_name": "prototurk",
+    "name": "PWA Deneme",
+    "short_name": "PWA",
     "icons": [
       {
         "src": "img/36x36.png",
