@@ -8,27 +8,27 @@
         "type": "image/jpg"
       },
       {
-        "src": "/img/48x48.jpg",
+        "src": "img/48x48.jpg",
         "sizes": "48x48",
         "type": "image/jpg"
       },
       {
-        "src": "/img/72x72.jpg",
+        "src": "img/72x72.jpg",
         "sizes": "72x72",
         "type": "image/jpg"
       },
       {
-        "src": "/img/96x96.jpg",
+        "src": "img/96x96.jpg",
         "sizes": "96x96",
         "type": "image/jpg"
       },
       {
-        "src": "/img/144x144.jpg",
+        "src": "img/144x144.jpg",
         "sizes": "144x144",
         "type": "image/jpg"
       },
       {
-        "src": "/img/192x192.jpg",
+        "src": "img/192x192.jpg",
         "sizes": "192x192",
         "type": "image/jpg"
       }
