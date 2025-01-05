@@ -1,0 +1,16 @@
+{
+    "name": "prototurk.com",
+    "short_name": "prototurk",
+    "icons": [
+      {
+        "src": "/img/euroserve.jpg",
+        "sizes": "200x200",
+        "type": "image/jpg"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#1f1f1f",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+  }
