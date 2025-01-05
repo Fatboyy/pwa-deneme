@@ -23,7 +23,7 @@
         "type": "image/jpg"
       },
       {
-        "src": "pwa-deneme/img/144x144.jpg",
+        "src": "/img/144x144.jpg",
         "sizes": "144x144",
         "type": "image/jpg"
       },
@@ -35,7 +35,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#1f1f1f",
-    "start_url": "/",
+    "start_url": ".",
     "display": "standalone",
     "orientation": "portrait"
   }
