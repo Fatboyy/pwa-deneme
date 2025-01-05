@@ -3,7 +3,7 @@
     "short_name": "prototurk",
     "icons": [
       {
-        "src": "/img/euroserve.jpg",
+        "src": "./img/euroserve.jpg",
         "sizes": "200x200",
         "type": "image/jpg"
       }
